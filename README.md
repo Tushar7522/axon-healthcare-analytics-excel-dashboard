@@ -8,7 +8,7 @@
 
 ## 📸 Dashboard Preview
 
-![Axon Healthcare Analytics Dashboard] <img width="1757" height="777" alt="Screenshot 2026-06-17 110726" src="https://github.com/user-attachments/assets/f086c3ba-b2bc-4cf2-9033-acdf52f8bdb4" />
+[Axon Healthcare Analytics Dashboard] <img width="1757" height="777" alt="Screenshot 2026-06-17 110726" src="https://github.com/user-attachments/assets/f086c3ba-b2bc-4cf2-9033-acdf52f8bdb4" />
 
 
 ---
